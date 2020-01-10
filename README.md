@@ -7,8 +7,8 @@ Inspired by https://uses.tech/
 
 ![iTerm2 icon](scribbles/uses-iterm.png)
 
-- VSCodium is my current editor. I made the switch to Visual Studio Code from Atom in 2018, and made the conscious choice to swap to the version with telemetry removed. Before that I used Brackets, Coda and Sublime Text. I wrote my first lines of code with Notepad++ in 2005.
-- Default theme
+- [VSCodium](https://vscodium.com/) is my current editor. I made the switch to Visual Studio Code from Atom in 2018, and made the conscious choice to swap to the version with telemetry removed. Before that I used Brackets, Coda and Sublime Text. I wrote my first lines of code with Notepad++ in 2005.
+- Default Dark+ theme, vs-seti icons.
 - I keep my VS code extensions in a separate public gist. 
 - I use iTerm2 for my terminal. I change the font to Fira Code, and font-size to 14.
 - I use Zsh as my shell, with the default theme.
@@ -26,18 +26,18 @@ Inspired by https://uses.tech/
 
 ![Sketch App](scribbles/uses-sketch.png)
 
-## Music Apps
+## Music Apps / Gear
 
 ![Ableton live icon](scribbles/uses-live10.png) 
 
-- Ableton Live 10 is my DAW of choice these days. I used to rep Pro Tools 9 *hard* for editing and mixing. 
-- Loopback for more advanced audio routing
+- [Ableton Live 10](https://www.ableton.com/) is my DAW of choice these days. I used to rep Pro Tools 9 *hard* for editing and mixing. 
+- [Loopback](https://rogueamoeba.com/loopback/) for more advanced audio routing
 
 ## My PC
 
 ![Razor DeathAdder Elite mouse](scribbles/uses-mouse.png)
 
-I run a [custom-made PC](https://pcpartpicker.com/user/miclgael/saved/bhd8Mp), dualbooting Windows 10 and macOS Catalina (10.15.2), and occasionally run a third OS (Ubuntu 19.xx)
+I built my own [custom-made PC](https://pcpartpicker.com/user/miclgael/saved/bhd8Mp) in 2012, and have been **slowly** upgrading it ever since. Now triple-booting Windows 10, macOS Catalina (10.15.2), and Ubuntu 19.xx.
 
 ### Full PC specs:
 
@@ -60,6 +60,5 @@ I run a [custom-made PC](https://pcpartpicker.com/user/miclgael/saved/bhd8Mp), d
 - Wired Apple keyboard (for coding)
 - Samsung SG https://amzn.to/37RmWJ3
 - Xbox One controller
-
-
+- Raspberry Pi 3b 🍇
 - I use the original Ableton Push for beats and midi-controller related things. Looking to upgrade some day!
