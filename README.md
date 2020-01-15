@@ -3,7 +3,7 @@ Inspired by https://uses.tech/
 
 I maintain a [macOS setup cheat sheet](https://github.com/miclgael/setup/) and similar one for Windows, [here](https://github.com/miclgael/setup-win/).
 
-<small>Full disclosure, I'm including some affiliate links for the hardware list!</small>
+*full disclosure, I'm including some affiliate links for the hardware list!*
 
 ## Editor + Terminal
 
