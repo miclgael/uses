@@ -1,9 +1,12 @@
 # uses
-Inspired by https://uses.tech/
 
-I maintain a [macOS setup cheat sheet](https://github.com/miclgael/setup/) and similar one for Windows, [here](https://github.com/miclgael/setup-win/).
+My software, hardware and gear - all in one place. Inspired by Wes Bos' [uses.tech](https://uses.tech/)
 
 *full disclosure, I'm including some affiliate links for the hardware list!*
+
+## Setup stuff
+
+I maintain a [macOS setup cheat sheet](https://github.com/miclgael/setup/) and similar one for Windows, [here](https://github.com/miclgael/setup-win/).
 
 ## Editor + Terminal
 
