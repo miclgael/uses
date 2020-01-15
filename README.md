@@ -19,12 +19,16 @@ Inspired by https://uses.tech/
 
 - I am a recent Alfred convert, and paid for the upgrade.
 - I use Notion for my todos and notes. I used to iaWriter, or evernote.
-- Designs in Sketch
+
 - I use Carbon Copy Cloner for backups and setups
 
 ## Design Apps
 
 ![Sketch App](scribbles/uses-sketch.png)
+
+- Designs in [Sketch](https://www.sketch.com)
+- I manage SVG icons with [Nucleo](https://nucleoapp.com/) I use [ico-moon](https://icomoon.io/app/#/select) to make icon sets.
+- ImageOptim for compression.
 
 ## Music Apps / Gear
 
