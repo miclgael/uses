@@ -1,7 +1,7 @@
 # uses
 Inspired by https://uses.tech/
 
-I maintain a [macOS setup cheat sheet](https://github.com/miclgael/setup-win/) and similar one for Windows, [https://github.com/miclgael/setup/](here).
+I maintain a [macOS setup cheat sheet](https://github.com/miclgael/setup-win/) and similar one for Windows, [here](https://github.com/miclgael/setup/).
 
 <small>Full disclosure, I'm including some affiliate links for the hardware list!</small>
 
