@@ -1,7 +1,9 @@
 # uses
 Inspired by https://uses.tech/
 
-<small>Full disclosure: Affiliate links are below!</small>
+I maintain a [macOS setup cheat sheet](https://github.com/miclgael/setup-win/) and similar one for Windows, [https://github.com/miclgael/setup/](here).
+
+<small>Full disclosure, I'm including some affiliate links for the hardware list!</small>
 
 ## Editor + Terminal
 
