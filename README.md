@@ -62,7 +62,7 @@ I built my own [custom-made PC](https://pcpartpicker.com/user/miclgael/saved/bhd
 - At home, I use the [Razer DeathAdder Elite Chroma](https://amzn.to/2NdPR24) gaming mouse. For work I use an [Apple Magic Mouse](https://amzn.to/39VlNlJ). 
 - [Razer Huntsman Elite](https://amzn.to/2R1AZoJ) opto-mechanical keyboard (for gaming)
 - Wired Apple keyboard (for coding)
-- Samsung SG https://amzn.to/37RmWJ3
+- [Samsung LC32JG51FDEXXY Gaming monitor](https://amzn.to/37RmWJ3) 
 - Xbox One controller
 - Raspberry Pi 3b 🍇
 - I use the original Ableton Push for beats and midi-controller related things. Looking to upgrade some day!
