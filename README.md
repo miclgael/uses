@@ -9,7 +9,7 @@ Inspired by https://uses.tech/
 
 - [VSCodium](https://vscodium.com/) is my current editor. I made the switch to Visual Studio Code from Atom in 2018, and made the conscious choice to swap to the version with telemetry removed. Before that I used Brackets, Coda and Sublime Text. I wrote my first lines of code with Notepad++ in 2005.
 - Default Dark+ theme, vs-seti icons.
-- I keep my VS code extensions in a separate public gist. 
+- I keep my VS code extensions in a [separate public gist](https://gist.github.com/miclgael/79b65d3420f95a943eb9bf94be1399c5). 
 - I use iTerm2 for my terminal. I change the font to Fira Code, and font-size to 14.
 - I use Zsh as my shell, with the default theme.
 
