@@ -22,10 +22,9 @@ I maintain a [macOS setup cheat sheet](https://github.com/miclgael/setup/) and s
 
 ![Alfred App](scribbles/uses-alfred.png)
 
-- I am a recent Alfred convert, and paid for the upgrade.
-- I use Notion for my todos and notes. I used to iaWriter, or evernote.
-
-- I use Carbon Copy Cloner for backups and setups
+- I am a recent [Alfred](https://www.alfredapp.com/) convert, and paid for the powerpack.
+- I use [Notion](http://notion.so/) for my todos, notes. I used to use [iaWriter](https://ia.net/writer). 
+- I use [Carbon Copy Cloner](https://bombich.com/download) for backups and setups
 
 ## Design Apps
 
@@ -33,7 +32,7 @@ I maintain a [macOS setup cheat sheet](https://github.com/miclgael/setup/) and s
 
 - Designs in [Sketch](https://www.sketch.com)
 - I manage SVG icons with [Nucleo](https://nucleoapp.com/) I use [ico-moon](https://icomoon.io/app/#/select) to make icon sets.
-- ImageOptim for compression.
+- *I compress all my images* with [ImageOptim](https://imageoptim.com/mac). I've made Right Click > 
 
 ## Music Apps / Gear
 
@@ -41,6 +40,7 @@ I maintain a [macOS setup cheat sheet](https://github.com/miclgael/setup/) and s
 
 - [Ableton Live 10](https://www.ableton.com/) is my DAW of choice these days. I used to rep Pro Tools 9 *hard* for editing and mixing. 
 - [Loopback](https://rogueamoeba.com/loopback/) for more advanced audio routing
+- [Guitar Pro 7](https://www.guitar-pro.com) for writing sheet music and sending over to band-mates, or for general archiving.
 
 ## My PC
 
