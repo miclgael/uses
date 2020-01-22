@@ -9,4 +9,4 @@ const blob = fs.readFileSync('README.md', 'utf8')
 const html = converter.makeHtml(blob)
 
 // OUTPUT
-fs.writeFileSync('index.html', html)
+fs.writeFileSync('/uses/index.html', html)
