@@ -1,6 +1,9 @@
 const fs = require('fs')
 const showdown = require('showdown')
-const converter = new showdown.Converter()
+const converter = new showdown.Converter({
+  completeHTMLDocument: true,
+  metadata: true
+})
 
 // INPUT
 const blob = fs.readFileSync('README.md', 'utf8')

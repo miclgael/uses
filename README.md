@@ -1,3 +1,7 @@
+---
+title: uses
+---
+
 # uses
 
 My software, hardware and gear - all in one place. Inspired by Wes Bos' [uses.tech](https://uses.tech/)
