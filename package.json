@@ -1,0 +1,26 @@
+{
+  "name": "uses",
+  "version": "0.0.1",
+  "description": "My software, hardware and gear - all in one place.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/miclgael/uses.git"
+  },
+  "keywords": [
+    "uses",
+    "gear"
+  ],
+  "author": "Michael Gale <michael@michaelgale.dev>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/miclgael/uses/issues"
+  },
+  "homepage": "https://github.com/miclgael/uses#readme",
+  "dependencies": {
+    "showdown": "^1.9.1"
+  }
+}
