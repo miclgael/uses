@@ -1,7 +1,3 @@
----
-title: uses
----
-
 # uses
 
 My software, hardware and gear - all in one place. Inspired by Wes Bos' [uses.tech](https://uses.tech/)
@@ -75,3 +71,10 @@ I built my own [custom-made PC](https://pcpartpicker.com/user/miclgael/saved/bhd
 - Xbox One controller
 - Raspberry Pi 3b 🍇
 - I use the original Ableton Push for beats and midi-controller related things. Looking to upgrade some day!
+
+
+### Meta data
+
+---
+title: uses
+---
