@@ -1,14 +1,28 @@
 const fs = require('fs')
 const showdown = require('showdown')
 const converter = new showdown.Converter({
-  completeHTMLDocument: true,
-  metadata: true
+  completeHTMLDocument: true
 })
 
 // INPUT
-const blob = fs.readFileSync('README.md', 'utf8')
+let blob = fs.readFileSync('README.md', 'utf8')
 
-// PROCESS
+// PROCESS + ADD CSS (IN THE BODY, BUT WHATEVER)
+blob += ` \n<style>
+body {
+font-family: sans-serif;
+}
+</style>`;
+
+// PROCESS + ADD SCRIPTS
+blob += ` \n<script>
+document.title = 'Michael Gale / Uses';
+console.log('hello blorg :)')
+</script>`;
+
+console.log(blob);
+
+
 const html = converter.makeHtml(blob)
 
 // OUTPUT
