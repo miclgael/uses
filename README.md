@@ -50,13 +50,14 @@ I built my own [custom-made PC](https://pcpartpicker.com/user/miclgael/saved/bhd
 
 #### Full PC specs:
 
-- Intel Core i5-4670K 3.4GHz Quad-Core Processor
-- Corsair H100x Liquid CPU Cooler
-- Asus Z87I-Pro Mini-ITX Motherboard 
-- Corsair Vengeance "Low Profile" 16GB DDR3-1600 Memory
-- 3x Samsung 860 Evo SSD's (250GB)
-- 1x Samsung 860 QVO SSD (1TB) 
+- Intel Core i7-9700K 3.6GHz (8 cores/8 threads)
+- ASUS ROG STRIX Z390-F GAMING Motherboard
+- Corsair Vengeance 32GB DDR4 3000 Memory
 - Gigabyte Radeon RX 5700 XT 8 GB GAMING OC Video Card
+- Corsair H100x Liquid CPU Cooler
+- 2x Samsung 860 Evo SSD's (250GB)
+- 1x Samsung 860 QVO SSD (1TB) 
+- 6TB's worth of WD-RED Hard drives for archives and backups
 - be quiet! Straight Power 11 750 W 80+ Gold Certified Fully Modular ATX Power Supply
 - NZXT H500 Mid-Tower 
 - Samsung C32JG5x 144Hz 2560x1440 Display
@@ -67,7 +68,6 @@ I built my own [custom-made PC](https://pcpartpicker.com/user/miclgael/saved/bhd
 - At home, I use the [Razer DeathAdder Elite Chroma](https://amzn.to/2NdPR24) gaming mouse. For work I use an [Apple Magic Mouse](https://amzn.to/39VlNlJ). 
 - [Razer Huntsman Elite](https://amzn.to/2R1AZoJ) opto-mechanical keyboard (for gaming)
 - Wired Apple keyboard (for coding)
-- [Samsung LC32JG51FDEXXY Gaming monitor](https://amzn.to/37RmWJ3) 
 - Xbox One controller
 - Raspberry Pi 3b 🍇
 - I use the original Ableton Push for beats and midi-controller related things. Looking to upgrade some day!
