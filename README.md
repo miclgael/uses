@@ -42,18 +42,30 @@ I maintain a [macOS setup cheat sheet](https://github.com/miclgael/setup/) and s
 - [Loopback](https://rogueamoeba.com/loopback/) for more advanced audio routing
 - [Guitar Pro 7](https://www.guitar-pro.com) for writing sheet music and sending over to band-mates, or for general archiving.
 
-### My PC
+### 🆕 Work Laptop (as of: Sep 17, 2020)
+
+I am now the proud owner of the MacBook Pro (13-inch, 2020, Four Thunderbolt 3 ports)!
+
+#### Specs:
+- 2 GHz Quad-Core Intel Core i5
+- 32 GB 3733 MHz LPDDR4X
+- Intel Iris Plus Graphics 1536 MB
+
+All peripherals and display running through the **Belkin Thunderbolt 3 dock Pro**
+
+### My Gaming PC "POOTER"
 
 ![Razor DeathAdder Elite mouse](https://goofy-jackson-e58a45.netlify.com/scribbles/uses-mouse.png)
 
-I built my own [custom-made PC](https://pcpartpicker.com/user/miclgael/saved/bhd8Mp) in 2012, and have been **slowly** upgrading it ever since. Now triple-booting Windows 10, macOS Catalina (10.15.2), and Ubuntu 19.xx.
+I built my own [custom-made PC](https://pcpartpicker.com/user/miclgael/saved/bhd8Mp) in 2012, and have been **slowly** upgrading it ever since. ~~Now triple-booting Windows 10, macOS Catalina (10.15.2), and Ubuntu 19.xx.~~ Running Windows 10.
 
 #### Full PC specs:
 
 - Intel Core i7-9700K 3.6GHz (8 cores/8 threads)
 - ASUS ROG STRIX Z390-F GAMING Motherboard
 - Corsair Vengeance 32GB DDR4 3000 Memory
-- Gigabyte Radeon RX 5700 XT 8 GB GAMING OC Video Card
+- ~~Gigabyte Radeon RX 5700 XT 8 GB GAMING OC Video Card~~
+- **🆕 Gigabyte Nvidia 2080 Super 8GB Gaming OC mk2 GPU**
 - Corsair H100x Liquid CPU Cooler
 - 2x Samsung 860 Evo SSD's (250GB)
 - 1x Samsung 860 QVO SSD (1TB) 
@@ -64,10 +76,10 @@ I built my own [custom-made PC](https://pcpartpicker.com/user/miclgael/saved/bhd
 
 ### Other Hardware
 
-- My laptop is getting old, but still going strong. Mid-2012 15" Macbook Pro i7 with 16GB of RAM and SSD upgrades.
-- At home, I use the [Razer DeathAdder Elite Chroma](https://amzn.to/2NdPR24) gaming mouse. For work I use an [Apple Magic Mouse](https://amzn.to/39VlNlJ). 
-- [Razer Huntsman Elite](https://amzn.to/2R1AZoJ) opto-mechanical keyboard (for gaming)
+~~- My laptop is getting old, but still going strong. Mid-2012 15" Macbook Pro i7 with 16GB of RAM and SSD upgrades.~~
+- At home, I use the **Razer DeathAdder Elite Chroma** gaming mouse. ~~For work I use an Apple Magic Mouse.~~
+- ~~Razer Huntsman Elite opto-mechanical keyboard (for gaming)~~
 - Wired Apple keyboard (for coding)
-- Xbox One controller
+- Xbox One Elite (Series 2) controller
 - Raspberry Pi 3b 🍇
-- I use the original Ableton Push for beats and midi-controller related things. Looking to upgrade some day!
+- I use the ~~original Ableton Push~~ Ableton Push 2 for beats and midi-controller related things. Looking to upgrade some day!
