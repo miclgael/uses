@@ -13,8 +13,7 @@ I maintain a [macOS setup cheat sheet](https://github.com/miclgael/setup/) and s
 ![iTerm2 icon](https://goofy-jackson-e58a45.netlify.com/scribbles/uses-iterm.png)
 
 - [VSCodium](https://vscodium.com/) is my current editor. I made the switch to Visual Studio Code from Atom in 2018, and made the conscious choice to swap to the version with telemetry removed. Before that I used Brackets, Coda and Sublime Text. I wrote my first lines of code with Notepad++ in 2005.
-- Default Dark+ theme, vs-seti icons.
-- I keep my VS code extensions in a [separate public gist](https://gist.github.com/miclgael/79b65d3420f95a943eb9bf94be1399c5). 
+- Default Dark+ theme, default vs-seti icons.
 - I use iTerm2 for my terminal. I change the font to Fira Code, and font-size to 14.
 - I use Zsh as my shell, with the default theme.
 
@@ -32,7 +31,7 @@ I maintain a [macOS setup cheat sheet](https://github.com/miclgael/setup/) and s
 
 - Designs in [Sketch](https://www.sketch.com)
 - I manage SVG icons with [Nucleo](https://nucleoapp.com/) I use [ico-moon](https://icomoon.io/app/#/select) to make icon sets.
-- *I compress all my images* with [ImageOptim](https://imageoptim.com/mac). I've made Right Click > 
+- *I compress all my images* with [ImageOptim](https://imageoptim.com/mac). 
 
 ### Music Apps / Gear
 
@@ -41,8 +40,9 @@ I maintain a [macOS setup cheat sheet](https://github.com/miclgael/setup/) and s
 - [Ableton Live 10](https://www.ableton.com/) is my DAW of choice these days. I used to rep Pro Tools 9 *hard* for editing and mixing. 
 - [Loopback](https://rogueamoeba.com/loopback/) for more advanced audio routing
 - [Guitar Pro 7](https://www.guitar-pro.com) for writing sheet music and sending over to band-mates, or for general archiving.
+- [Sound Toys 5](http://soundtoys.com) sound design plugins
 
-### 🆕 Work Laptop (as of: Sep 17, 2020)
+## Laptop for work
 
 I am now the proud owner of the MacBook Pro (13-inch, 2020, Four Thunderbolt 3 ports)!
 
@@ -57,15 +57,14 @@ All peripherals and display running through the **Belkin Thunderbolt 3 dock Pro*
 
 ![Razor DeathAdder Elite mouse](https://goofy-jackson-e58a45.netlify.com/scribbles/uses-mouse.png)
 
-I built my own [custom-made PC](https://pcpartpicker.com/user/miclgael/saved/bhd8Mp) in 2012, and have been **slowly** upgrading it ever since. ~~Now triple-booting Windows 10, macOS Catalina (10.15.2), and Ubuntu 19.xx.~~ Running Windows 10.
+I built my own [custom-made PC](https://pcpartpicker.com/user/miclgael/saved/bhd8Mp) in 2012, and have been **slowly** upgrading it ever since. Running Windows 10.
 
 #### Full PC specs:
 
 - Intel Core i7-9700K 3.6GHz (8 cores/8 threads)
 - ASUS ROG STRIX Z390-F GAMING Motherboard
 - Corsair Vengeance 32GB DDR4 3000 Memory
-- ~~Gigabyte Radeon RX 5700 XT 8 GB GAMING OC Video Card~~
-- **🆕 Gigabyte Nvidia 2080 Super 8GB Gaming OC mk2 GPU**
+- Gigabyte Nvidia 2080 Super 8GB Gaming OC mk2 GPU
 - Corsair H100x Liquid CPU Cooler
 - 2x Samsung 860 Evo SSD's (250GB)
 - 1x Samsung 860 QVO SSD (1TB) 
@@ -76,10 +75,13 @@ I built my own [custom-made PC](https://pcpartpicker.com/user/miclgael/saved/bhd
 
 ### Other Hardware
 
-~~- My laptop is getting old, but still going strong. Mid-2012 15" Macbook Pro i7 with 16GB of RAM and SSD upgrades.~~
-- At home, I use the **Razer DeathAdder Elite Chroma** gaming mouse. ~~For work I use an Apple Magic Mouse.~~
-- ~~Razer Huntsman Elite opto-mechanical keyboard (for gaming)~~
-- Wired Apple keyboard (for coding)
+- I use the **Razer DeathAdder Elite Chroma** gaming mouse. 
+- Wired Apple keyboard
 - Xbox One Elite (Series 2) controller
 - Raspberry Pi 3b 🍇
-- I use the ~~original Ableton Push~~ Ableton Push 2 for beats and midi-controller related things. Looking to upgrade some day!
+- I use the Ableton Push 2 for beats and midi-controller related things. 
+- KORG VolcaBeats drum machine
+- Arsenal of guitar effects pedals
+- Yamaha HS50 monitors
+- Vox MV50 Clean guitar amp
+- more to come :)
