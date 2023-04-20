@@ -10,7 +10,7 @@ I maintain a [macOS setup cheat sheet](https://github.com/miclgael/setup/) and s
 
 ### Editor + Terminal
 
-![iTerm2 icon](https://goofy-jackson-e58a45.netlify.com/scribbles/uses-iterm.png)
+![iTerm2 icon](/scribbles/uses-iterm.png)
 
 - [VSCodium](https://vscodium.com/) is my current editor. I made the switch to Visual Studio Code from Atom in 2018, and made the conscious choice to swap to the version with telemetry removed. Before that I used Brackets, Coda and Sublime Text. I wrote my first lines of code with Notepad++ in 2005.
 - Default Dark+ theme, default vs-seti icons.
@@ -19,7 +19,7 @@ I maintain a [macOS setup cheat sheet](https://github.com/miclgael/setup/) and s
 
 ### Desktop Apps
 
-![Alfred App](https://goofy-jackson-e58a45.netlify.com/scribbles/uses-alfred.png)
+![Alfred App](/scribbles/uses-alfred.png)
 
 - I am a recent [Alfred](https://www.alfredapp.com/) convert, and paid for the powerpack.
 - I use [Notion](http://notion.so/) for my todos, notes. I used to use [iaWriter](https://ia.net/writer). 
@@ -27,7 +27,7 @@ I maintain a [macOS setup cheat sheet](https://github.com/miclgael/setup/) and s
 
 ### Design Apps
 
-![Sketch App](https://goofy-jackson-e58a45.netlify.com/scribbles/uses-sketch.png)
+![Sketch App](/scribbles/uses-sketch.png)
 
 - Designs in [Sketch](https://www.sketch.com)
 - I manage SVG icons with [Nucleo](https://nucleoapp.com/) I use [ico-moon](https://icomoon.io/app/#/select) to make icon sets.
@@ -35,7 +35,7 @@ I maintain a [macOS setup cheat sheet](https://github.com/miclgael/setup/) and s
 
 ### Music Apps / Gear
 
-![Ableton live icon](https://goofy-jackson-e58a45.netlify.com/scribbles/uses-live10.png) 
+![Ableton live icon](/scribbles/uses-live10.png) 
 
 - [Ableton Live 10](https://www.ableton.com/) is my DAW of choice these days. I used to rep Pro Tools 9 *hard* for editing and mixing. 
 - [Loopback](https://rogueamoeba.com/loopback/) for more advanced audio routing
