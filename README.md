@@ -19,7 +19,7 @@ I maintain a [macOS setup cheat sheet](https://github.com/miclgael/setup/) and s
 
 ### Desktop Apps
 
-![Alfred App](/scribbles/uses-alfred.png)
+![Alfred App](https://github.com/miclgael/uses/blob/main/scribbles/uses-alfred.png)
 
 - I am a recent [Alfred](https://www.alfredapp.com/) convert, and paid for the powerpack.
 - I use [Notion](http://notion.so/) for my todos, notes. I used to use [iaWriter](https://ia.net/writer). 
@@ -27,7 +27,7 @@ I maintain a [macOS setup cheat sheet](https://github.com/miclgael/setup/) and s
 
 ### Design Apps
 
-![Sketch App](/scribbles/uses-sketch.png)
+![Sketch App](https://github.com/miclgael/uses/blob/main/scribbles/uses-sketch.png)
 
 - Designs in [Sketch](https://www.sketch.com)
 - I manage SVG icons with [Nucleo](https://nucleoapp.com/) I use [ico-moon](https://icomoon.io/app/#/select) to make icon sets.
@@ -35,7 +35,7 @@ I maintain a [macOS setup cheat sheet](https://github.com/miclgael/setup/) and s
 
 ### Music Apps / Gear
 
-![Ableton live icon](/scribbles/uses-live10.png) 
+![Ableton live icon](https://github.com/miclgael/uses/blob/main/scribbles/uses-live10.png) 
 
 - [Ableton Live 10](https://www.ableton.com/) is my DAW of choice these days. I used to rep Pro Tools 9 *hard* for editing and mixing. 
 - [Loopback](https://rogueamoeba.com/loopback/) for more advanced audio routing
@@ -55,7 +55,7 @@ All peripherals and display running through the **Belkin Thunderbolt 3 dock Pro*
 
 ### My Gaming PC "POOTER"
 
-![Razor DeathAdder Elite mouse](/scribbles/uses-mouse.png)
+![Razor DeathAdder Elite mouse](https://github.com/miclgael/uses/blob/main/scribbles/uses-mouse.png)
 
 I built my own [custom-made PC](https://pcpartpicker.com/user/miclgael/saved/bhd8Mp) in 2012, and have been **slowly** upgrading it ever since. Running Windows 10.
 
