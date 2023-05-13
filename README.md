@@ -10,7 +10,7 @@ I maintain a [macOS setup cheat sheet](https://github.com/miclgael/setup/) and s
 
 ### Editor + Terminal
 
-![iTerm2 icon](/scribbles/uses-iterm.png)
+![iTerm2 icon](https://github.com/miclgael/uses/blob/main/scribbles/uses-iterm.png?raw=true) 
 
 - [VSCodium](https://vscodium.com/) is my current editor. I made the switch to Visual Studio Code from Atom in 2018, and made the conscious choice to swap to the version with telemetry removed. Before that I used Brackets, Coda and Sublime Text. I wrote my first lines of code with Notepad++ in 2005.
 - Default Dark+ theme, default vs-seti icons.
