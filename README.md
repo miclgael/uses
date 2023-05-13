@@ -13,7 +13,7 @@ I maintain a [macOS setup cheat sheet](https://github.com/miclgael/setup/), [a s
 - [VSCodium](https://vscodium.com/) is my current editor. I made the switch to Visual Studio Code from Atom in 2018, and made the conscious choice to swap to the version with telemetry removed. Before that I used Brackets, Coda and Sublime Text. I wrote my first lines of code with Notepad++ in 2005.
 - Default Dark+ theme, default vs-seti icons.
 - I use iTerm2 for my terminal. I change the font to Fira Code, and font-size to 14.
-- On Linux I use the default PoP_\OS! terminal.
+- On Linux I use the default PoP!_\OS terminal.
 - I use Zsh as my shell, with the [Spaceship Prompt](https://github.com/spaceship-prompt/spaceship-prompt) theme, via [Fig.io](https://fig.io) (where all my dotfiles and aliases are managed now!)
 
 ### Desktop Apps
