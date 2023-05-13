@@ -55,7 +55,7 @@ All peripherals and display running through the **Belkin Thunderbolt 3 dock Pro*
 
 ### My Gaming PC "POOTER"
 
-![Razor DeathAdder Elite mouse](https://goofy-jackson-e58a45.netlify.com/scribbles/uses-mouse.png)
+![Razor DeathAdder Elite mouse](/scribbles/uses-mouse.png)
 
 I built my own [custom-made PC](https://pcpartpicker.com/user/miclgael/saved/bhd8Mp) in 2012, and have been **slowly** upgrading it ever since. Running Windows 10.
 
