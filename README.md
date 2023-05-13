@@ -1,12 +1,10 @@
-# uses
+# Michael Uses
 
 My software, hardware and gear - all in one place. Inspired by Wes Bos' [uses.tech](https://uses.tech/)
 
-*full disclosure, I'm including some affiliate links for the hardware list!*
-
 ### Setup stuff
 
-I maintain a [macOS setup cheat sheet](https://github.com/miclgael/setup/) and similar one for Windows, [here](https://github.com/miclgael/setup-win/).
+I maintain a [macOS setup cheat sheet](https://github.com/miclgael/setup/), [a similar one for Windows](https://github.com/miclgael/setup-win/), and [another for Linux](https://github.com/miclgael/setup-linux).
 
 ### Editor + Terminal
 
@@ -15,7 +13,8 @@ I maintain a [macOS setup cheat sheet](https://github.com/miclgael/setup/) and s
 - [VSCodium](https://vscodium.com/) is my current editor. I made the switch to Visual Studio Code from Atom in 2018, and made the conscious choice to swap to the version with telemetry removed. Before that I used Brackets, Coda and Sublime Text. I wrote my first lines of code with Notepad++ in 2005.
 - Default Dark+ theme, default vs-seti icons.
 - I use iTerm2 for my terminal. I change the font to Fira Code, and font-size to 14.
-- I use Zsh as my shell, with the default theme.
+- On Linux I use the default PoP_\OS! terminal.
+- I use Zsh as my shell, with the [Spaceship Prompt](https://github.com/spaceship-prompt/spaceship-prompt) theme, via [Fig.io](https://fig.io) (where all my dotfiles and aliases are managed now!)
 
 ### Desktop Apps
 
@@ -29,18 +28,17 @@ I maintain a [macOS setup cheat sheet](https://github.com/miclgael/setup/) and s
 
 ![Sketch App](https://github.com/miclgael/uses/blob/main/scribbles/uses-sketch.png)
 
-- Designs in [Sketch](https://www.sketch.com)
-- I manage SVG icons with [Nucleo](https://nucleoapp.com/) I use [ico-moon](https://icomoon.io/app/#/select) to make icon sets.
+- Designs in [Sketch](https://www.sketch.com). However, I stopped buying updates when they switched to a subscription model. For that reason, I also have Figma. 
+- I manage SVG icons with [Nucleo](https://nucleoapp.com/)
 - *I compress all my images* with [ImageOptim](https://imageoptim.com/mac). 
 
 ### Music Apps / Gear
 
 ![Ableton live icon](https://github.com/miclgael/uses/blob/main/scribbles/uses-live10.png) 
 
-- [Ableton Live 10](https://www.ableton.com/) is my DAW of choice these days. I used to rep Pro Tools 9 *hard* for editing and mixing. 
-- [Loopback](https://rogueamoeba.com/loopback/) for more advanced audio routing
-- [Guitar Pro 7](https://www.guitar-pro.com) for writing sheet music and sending over to band-mates, or for general archiving.
+- [Ableton Live 11](https://www.ableton.com/) is my DAW of choice these days. I used to rep Pro Tools 9 *hard* for editing and mixing. 
 - [Sound Toys 5](http://soundtoys.com) sound design plugins
+- [Loopback](https://rogueamoeba.com/loopback/) for more advanced audio routing
 
 ## Laptop for work
 
@@ -57,7 +55,7 @@ All peripherals and display running through the **Belkin Thunderbolt 3 dock Pro*
 
 ![Razor DeathAdder Elite mouse](https://github.com/miclgael/uses/blob/main/scribbles/uses-mouse.png)
 
-I built my own [custom-made PC](https://pcpartpicker.com/user/miclgael/saved/bhd8Mp) in 2012, and have been **slowly** upgrading it ever since. Running Windows 10.
+I built my own [custom-made PC](https://pcpartpicker.com/user/miclgael/saved/bhd8Mp) in 2012, and have been **slowly** upgrading it ever since. Running ~~Windows 10~~ ~~Windows 11~~ ~~Ubuntu~~ PoP!\_OS
 
 #### Full PC specs:
 
@@ -66,22 +64,22 @@ I built my own [custom-made PC](https://pcpartpicker.com/user/miclgael/saved/bhd
 - Corsair Vengeance 32GB DDR4 3000 Memory
 - Gigabyte Nvidia 2080 Super 8GB Gaming OC mk2 GPU
 - Corsair H100x Liquid CPU Cooler
-- 2x Samsung 860 Evo SSD's (250GB)
-- 1x Samsung 860 QVO SSD (1TB) 
-- 6TB's worth of WD-RED Hard drives for archives and backups
+- 1x Samsung 860 Evo SSD (250GB) - Windows Boot Drive
+- 1x Samsung 860 Evo SSD (4TB) - Games Library
+- 1x Western Digital m.2 NVME (2TB) - Linux Boot Drive
+- 1x Samsung 860 QVO SSD (1TB) - Still need to give this a task :) 
 - be quiet! Straight Power 11 750 W 80+ Gold Certified Fully Modular ATX Power Supply
 - NZXT H500 Mid-Tower 
 - Samsung C32JG5x 144Hz 2560x1440 Display
 
 ### Other Hardware
 
-- I use the **Razer DeathAdder Elite Chroma** gaming mouse. 
-- Wired Apple keyboard
+- I use the **Razer DeathAdder Elite Chroma** gaming mouse
+- Apple keyboard (with the finger print reader)
 - Xbox One Elite (Series 2) controller
 - Raspberry Pi 3b 🍇
-- I use the Ableton Push 2 for beats and midi-controller related things. 
 - KORG VolcaBeats drum machine
+- Elektron Model:Samples
 - Arsenal of guitar effects pedals
 - Yamaha HS50 monitors
 - Vox MV50 Clean guitar amp
-- more to come :)
