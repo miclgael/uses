@@ -76,10 +76,14 @@ I built my own [custom-made PC](https://pcpartpicker.com/user/miclgael/saved/bhd
 
 - I use the **Razer DeathAdder Elite Chroma** gaming mouse
 - Apple keyboard (with the finger print reader)
-- Xbox One Elite (Series 2) controller
+- 8bitdo Ultimate controller
+- SteamDeck (the lowest tier)
 - Raspberry Pi 3b 🍇
 - KORG VolcaBeats drum machine
 - Elektron Model:Samples
 - Arsenal of guitar effects pedals
 - Yamaha HS50 monitors
 - Vox MV50 Clean guitar amp
+- Behringer Xenyx Q1202 USB mixer
+- Shure SM58 XLR Microphone
+- 
