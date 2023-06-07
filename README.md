@@ -18,7 +18,7 @@ I maintain a [macOS setup cheat sheet](https://github.com/miclgael/setup/), [a s
 
 ### Desktop Apps
 
-![Alfred App](https://github.com/miclgael/uses/blob/main/scribbles/uses-alfred.png)
+![Alfred App](https://github.com/miclgael/uses/blob/main/scribbles/uses-alfred.png?raw=true)
 
 - I am a recent [Alfred](https://www.alfredapp.com/) convert, and paid for the powerpack.
 - I use [Notion](http://notion.so/) for my todos, notes. I used to use [iaWriter](https://ia.net/writer). 
@@ -26,7 +26,7 @@ I maintain a [macOS setup cheat sheet](https://github.com/miclgael/setup/), [a s
 
 ### Design Apps
 
-![Sketch App](https://github.com/miclgael/uses/blob/main/scribbles/uses-sketch.png)
+![Sketch App](https://github.com/miclgael/uses/blob/main/scribbles/uses-sketch.png?raw=true)
 
 - Designs in [Sketch](https://www.sketch.com). However, I stopped buying updates when they switched to a subscription model. For that reason, I also have Figma. 
 - I manage SVG icons with [Nucleo](https://nucleoapp.com/)
@@ -34,7 +34,7 @@ I maintain a [macOS setup cheat sheet](https://github.com/miclgael/setup/), [a s
 
 ### Music Apps / Gear
 
-![Ableton live icon](https://github.com/miclgael/uses/blob/main/scribbles/uses-live10.png) 
+![Ableton live icon](https://github.com/miclgael/uses/blob/main/scribbles/uses-live10.png?raw=true) 
 
 - [Ableton Live 11](https://www.ableton.com/) is my DAW of choice these days. I used to rep Pro Tools 9 *hard* for editing and mixing. 
 - [Sound Toys 5](http://soundtoys.com) sound design plugins
@@ -86,4 +86,3 @@ I built my own [custom-made PC](https://pcpartpicker.com/user/miclgael/saved/bhd
 - Vox MV50 Clean guitar amp
 - Behringer Xenyx Q1202 USB mixer
 - Shure SM58 XLR Microphone
-- 
