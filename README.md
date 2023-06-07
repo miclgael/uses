@@ -36,9 +36,21 @@ I maintain a [macOS setup cheat sheet](https://github.com/miclgael/setup/), [a s
 
 ![Ableton live icon](https://github.com/miclgael/uses/blob/main/scribbles/uses-live10.png?raw=true) 
 
+#### Software
+
 - [Ableton Live 11](https://www.ableton.com/) is my DAW of choice these days. I used to rep Pro Tools 9 *hard* for editing and mixing. 
 - [Sound Toys 5](http://soundtoys.com) sound design plugins
 - [Loopback](https://rogueamoeba.com/loopback/) for more advanced audio routing
+
+#### Gear
+
+- KORG VolcaBeats drum machine
+- Elektron Model:Samples
+- Arsenal of guitar effects pedals
+- Yamaha HS50 monitors
+- Vox MV50 Clean guitar amp
+- Behringer Xenyx Q1202 USB mixer
+- Shure SM58 XLR Microphone
 
 ## Laptop for work
 
@@ -79,10 +91,3 @@ I built my own [custom-made PC](https://pcpartpicker.com/user/miclgael/saved/bhd
 - 8bitdo Ultimate controller
 - SteamDeck (the lowest tier)
 - Raspberry Pi 3b 🍇
-- KORG VolcaBeats drum machine
-- Elektron Model:Samples
-- Arsenal of guitar effects pedals
-- Yamaha HS50 monitors
-- Vox MV50 Clean guitar amp
-- Behringer Xenyx Q1202 USB mixer
-- Shure SM58 XLR Microphone
