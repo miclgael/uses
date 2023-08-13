@@ -61,7 +61,8 @@ I maintain a [macOS setup cheat sheet](https://github.com/miclgael/setup/), [a s
 - Behringer Xenyx Q1202 USB mixer
 - Shure SM58 XLR Microphone
 
-## [Stage Laptop](#stage-laptop) `(Codename: "dampe")`
+## [Stage Laptop](#stage-laptop) 
+**Codename: "dampe"**
 
 MacBook Pro (13-inch, 2020, Four Thunderbolt 3 ports)
 
@@ -71,7 +72,8 @@ MacBook Pro (13-inch, 2020, Four Thunderbolt 3 ports)
 - 32 GB 3733 MHz LPDDR4X
 - Intel® Iris™ Plus Graphics 1536 MB
 
-## [Work Laptop](#work-laptop) `(Codename: "ingo")`
+## [Work Laptop](#work-laptop)
+**Codename: "ingo"**
 
 MacBook Pro (16-inch, 2021)
 
@@ -82,7 +84,8 @@ MacBook Pro (16-inch, 2021)
 
 All peripherals and display running through the **Belkin Thunderbolt 3 dock Pro**
 
-## [My Gaming PC](#gaming-pc) `(Codename: "mido")`
+## [My Gaming PC](#gaming-pc) 
+**Codename: "mido"**
 
 ![Razor DeathAdder Elite mouse](https://raw.githubusercontent.com/miclgael/uses/main/scribbles/uses-mouse.png)
 
@@ -109,7 +112,8 @@ I built my own [custom-made PC](https://pcpartpicker.com/user/miclgael/saved/bhd
 - ~~Corsair Vengeance 32GB DDR4 3000 Memory~~
 - ~~1x Samsung 860 Evo SSD (250GB)~~
 
-## [NAS / Media Server](#nas) `(Codename: "impa")`
+## [NAS / Media Server](#nas) 
+**Codename: "impa"**
 
 Asustor AS6604T 
 
