@@ -97,7 +97,7 @@ I built my own [custom-made PC](https://pcpartpicker.com/user/miclgael/saved/bhd
 - ASUS TUF Gaming X670E-Plus DDR5 Motherboard
 - Corsair Vengeance RGB 32GB (2x16GB) 6000MHz DDR5 RAM
 - Gigabyte Nvidia 2080 Super 8GB Gaming OC mk2 GPU
-- Corsair H100x Liquid CPU Cooler
+- be quiet! Dark Rock 4 CPU Cooler
 - 1x Western Digital m.2 NVME (2TB) - Windows Boot Drive
 - 1x Samsung 860 Evo SSD (4TB) - Games Library
 - 1x Samsung 860 QVO SSD (1TB) - Still need to give this a task :) 
@@ -111,6 +111,7 @@ I built my own [custom-made PC](https://pcpartpicker.com/user/miclgael/saved/bhd
 - ~~ASUS ROG STRIX Z390-F GAMING Motherboard~~
 - ~~Corsair Vengeance 32GB DDR4 3000 Memory~~
 - ~~1x Samsung 860 Evo SSD (250GB)~~
+- ~~Corsair H100x Liquid CPU Cooler~~
 
 ## [NAS / Media Server](#nas) 
 **Codename: "impa"**
