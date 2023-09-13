@@ -27,7 +27,7 @@ I maintain a [macOS setup cheat sheet](https://github.com/miclgael/setup/), [a s
 ![Alfred App](https://raw.githubusercontent.com/miclgael/uses/main/scribbles/uses-alfred.png)
 
 - I am a recent [Alfred](https://www.alfredapp.com/) convert, and paid for the powerpack.
-- I use ~~iaWriter~~, ~~Notion~~, [Obsidian](https://obsidian.md/) for my todos, notes.  
+- I use ~~iaWriter~~, ~~Notion~~, [Obsidian](https://obsidian.md/) for my todos, notes. [I wrote about Obsidian](https://www.michaelgale.dev/blog/how-i-use-obsidian) recently.
 - I use [Carbon Copy Cloner](https://bombich.com/download) for backups and setups
 
 ## [Design Apps](#design-apps)
