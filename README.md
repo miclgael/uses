@@ -20,7 +20,7 @@ I maintain a [macOS setup cheat sheet](https://github.com/miclgael/setup/), [a s
 - Default Dark+ theme, default vs-seti icons.
 - I use iTerm2 for my terminal. I change the font to Fira Code, and font-size to 14.
 - On Linux I use the default PoP!_\OS terminal.
-- I use Zsh as my shell, with the [Spaceship Prompt](https://github.com/spaceship-prompt/spaceship-prompt) theme, via [Fig.io](https://fig.io) (where all my dotfiles and aliases are managed now!)
+- I use Zsh as my shell, with the [Spaceship Prompt](https://github.com/spaceship-prompt/spaceship-prompt) theme.
 
 ## [Desktop Apps](#desktop-apps)
 
