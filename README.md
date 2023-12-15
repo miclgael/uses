@@ -61,17 +61,6 @@ I maintain a [macOS setup cheat sheet](https://github.com/miclgael/setup/), [a s
 - Behringer Xenyx Q1202 USB mixer
 - Shure SM58 XLR Microphone
 
-## [Stage Laptop](#stage-laptop) 
-**Codename: "dampe"**
-
-MacBook Pro (13-inch, 2020, Four Thunderbolt 3 ports)
-
-### [Specs](#stage-laptop--specs)
-
-- 2 GHz Quad-Core Intel Core i5
-- 32 GB 3733 MHz LPDDR4X
-- Intel® Iris™ Plus Graphics 1536 MB
-
 ## [Work Laptop](#work-laptop)
 **Codename: "ingo"**
 
