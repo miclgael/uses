@@ -54,7 +54,6 @@ I maintain a [macOS setup cheat sheet](https://github.com/miclgael/setup/), [a s
 ### [Gear](#music-apps-gear--gear)
 
 - KORG VolcaBeats drum machine
-- Elektron Model:Samples
 - Arsenal of guitar effects pedals
 - Yamaha HS50 monitors
 - Vox MV50 Clean guitar amp
@@ -94,14 +93,6 @@ I built my own [custom-made PC](https://pcpartpicker.com/user/miclgael/saved/bhd
 - NZXT H7 Flow case
 - Samsung C32JG5x 144Hz 2560x1440 Display
 
-### Previous build(s)
-
-- ~~Intel Core i7-9700K 3.6GHz (8 cores/8 threads)~~
-- ~~ASUS ROG STRIX Z390-F GAMING Motherboard~~
-- ~~Corsair Vengeance 32GB DDR4 3000 Memory~~
-- ~~1x Samsung 860 Evo SSD (250GB)~~
-- ~~Corsair H100x Liquid CPU Cooler~~
-
 ## [NAS / Media Server](#nas) 
 **Codename: "impa"**
 
@@ -122,6 +113,6 @@ Asustor AS6604T
 - I use the **Razer DeathAdder Elite Chroma** gaming mouse
 - Apple keyboard (with the finger print reader)
 - 8bitdo Ultimate controller
-- SteamDeck (the lowest tier, has a broken R1 button I've never bothered to fix)
+- SteamDeck
 - Raspberry Pi 3b 🍇
 
